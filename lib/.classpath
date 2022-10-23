@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/main" kind="src" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/test" kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/test" kind="src" path="src/test/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11/"/>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.terasoluna.gfw/terasoluna-gfw-jodatime/5.7.1.RELEASE/fef9eb9c56eb1d30810597bc0395f237a8628ee1/terasoluna-gfw-jodatime-5.7.1.RELEASE-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.terasoluna.gfw/terasoluna-gfw-jodatime/5.7.1.RELEASE/30405a8bb1d1106194efb6098892c3919c8c1db0/terasoluna-gfw-jodatime-5.7.1.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.terasoluna.gfw/terasoluna-gfw-common/5.7.1.RELEASE/4065b64138316cc4ab282b46ba9f62dc0d15fe45/terasoluna-gfw-common-5.7.1.RELEASE-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.terasoluna.gfw/terasoluna-gfw-common/5.7.1.RELEASE/ed45a4c900cd3f9d3e3285d11087d52ee9c707a4/terasoluna-gfw-common-5.7.1.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/31.0.1-jre/d34772c01bd6637982d1aafe895c4fcd8b42e139/guava-31.0.1-jre-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/31.0.1-jre/119ea2b2bc205b138974d351777b20f02b92704b/guava-31.0.1-jre.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/com.github.Harris232/CollegePartA/VersionD/b67d03410283ec381e7bcc4dabae280643ecb524/CollegePartA-VersionD.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1d064e61aad6c51cc77f9b59dc2cccc78e792f5a/failureaccess-1.0.1-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/b19b5927c2c25b6c70f093767041e641ae0b1b35/jsr305-3.0.2-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.12.0/10dacb8b36398debceca36cd0db5f3316967f80e/checker-qual-3.12.0-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.12.0/d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5/checker-qual-3.12.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.7.1/2ca80bf7ac820fce6c743561b550c8bfb6c87c57/error_prone_annotations-2.7.1-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.7.1/458d9042f7aa6fa9a634df902b37f544e15aacac/error_prone_annotations-2.7.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/d26c56180205cbb50447c3eca98ecb617cf9f58b/j2objc-annotations-1.3-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/8fab23986ea8886af34818daf32a718e81dc98ba/commons-math3-3.6.1-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf/commons-math3-3.6.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.10.9/f4b1b4c1206ba7b419f5b4026b07582b48ae5b58/joda-time-2.10.9-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.10.9/2227c292c0ee4f57205dbdc65fd57a94694050ec/joda-time-2.10.9.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.9.7/b81bf8b54cdbddf2f7f18d315b0f7fadc685ec00/aspectjrt-1.9.7-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.9.7/ac42a7759a685a098b182bc0a39747f32f00adb0/aspectjrt-1.9.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.7/8da21dfaf64693f4a9c269298dce04d12a7b10fd/aspectjweaver-1.9.7-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.7/158f5c255cd3e4408e795b79f7c3fbae9b53b7ca/aspectjweaver-1.9.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.7/3bad21efb8d5c9414a2cdd123f687d5697638aa1/logback-classic-1.2.7-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.7/3e89a85545181f1a3a9efc9516ca92658502505b/logback-classic-1.2.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context-support/5.3.13/78d87dfbb664c10e6b856557e8d7457662a71c3f/spring-context-support-5.3.13-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context-support/5.3.13/d0a408dd3c5f919ff4acbdf6ccfb77b379f7f45e/spring-context-support-5.3.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.3.13/e01c4ef19759520fd6b8481ce8bbbd58eef90a80/spring-orm-5.3.13-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.3.13/cfcd1ea05a881200ddf7c67a1127a0f7c2efcf06/spring-orm-5.3.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.6.0/222240ede82e61cc62af0402e437df392d8e17b6/spring-data-commons-2.6.0-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.6.0/5a9afaa6e0a4cd74183a794f467c9b4a546b4cbe/spring-data-commons-2.6.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/jakarta.inject/jakarta.inject-api/1.0.5/71f9f4b8470832bcd0b4abb5a222e6271a77658c/jakarta.inject-api-1.0.5-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/jakarta.inject/jakarta.inject-api/1.0.5/a14342a10456b134f361c258698d568107a1bc4e/jakarta.inject-api-1.0.5.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.7/2716c720b4d14ee019ec276658b5897ca9a9c88d/logback-core-1.2.7-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.7/31f7db3c4277023742268c0c3f9b65f1f297e49a/logback-core-1.2.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.32/4381b152f738580aef4e436b2692a3db30609b26/slf4j-api-1.7.32-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.32/cdcff33940d9f2de763bc41ea05a0be5941176c3/slf4j-api-1.7.32.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.3.13/a6f2ad29fc2124e7eb22441e2c82b096d25a8e05/spring-context-5.3.13-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.3.13/e328db1c30ffe1c58328e4ab42cd3855a5307469/spring-context-5.3.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.3.13/ff66c6fb114706da818842aeedee9924ad0c7640/spring-jdbc-5.3.13-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.3.13/70d775617131bfd87370f590c94c55319f7964ff/spring-jdbc-5.3.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.3.13/167c838362c646dcd83e5dc77ee5b5da8e77416c/spring-tx-5.3.13-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.3.13/4b7346f190d6a6f4b983bc23d1f0145c2ff2dbb7/spring-tx-5.3.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.3.13/e737cb88c5c739d130d1bbd767cbda63d8954641/spring-aop-5.3.13-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.3.13/e0fddf47af3fbbec69a403c058c23505612ca329/spring-aop-5.3.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.3.13/ddd4df6d27eb3695492f3fc47fc270b6f8dce001/spring-beans-5.3.13-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.3.13/1d90c96b287253ec371260c35fbbea719c24bad6/spring-beans-5.3.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.3.13/ba1d61de1799062448c1c682513671136c04f9fd/spring-expression-5.3.13-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.3.13/8f7448f4fb296a92855fd0afea3375ce41061e84/spring-expression-5.3.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.13/3fee4911177ab3b3673a64ef0e5cf25e0d1b5a38/spring-core-5.3.13-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.13/d2a6c3372dd337e08144f9f49f386b8ec7a8080d/spring-core-5.3.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.3.13/48e59686ad1a2dd39f4f1b3d6a63a7424091893a/spring-jcl-5.3.13-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.3.13/3aa15be194887fbda3912ecbb4ab6ec8dfdebdb0/spring-jcl-5.3.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.8.2/26d07692b618b8da29479febec7d55e18107ee48/junit-jupiter-params-5.8.2-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.8.2/ddeafe92fc263f895bfb73ffeca7fd56e23c2cce/junit-jupiter-params-5.8.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.8.2/429d353563c5fb35a3d47076bedbf75161e976c2/junit-jupiter-api-5.8.2-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.8.2/4c21029217adf07e4c0d0c5e192b6bf610c94bdc/junit-jupiter-api-5.8.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.8.2/386b61876dd33d0ef0381189d3c1db9455d99659/junit-platform-commons-1.8.2-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.8.2/32c8b8617c1342376fd5af2053da6410d8866861/junit-platform-commons-1.8.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.8.2/5fd01c33132462aab3905cb74bd1097a713ab91a/junit-jupiter-5.8.2-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.8.2/5a817b1e63f1217e5c586090c45e681281f097ad/junit-jupiter-5.8.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/41d55b3c2254de9837b4ec8923cbd371b8a7eab5/opentest4j-1.2.0-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/e0787a997746ac32639e0bf3cb27af8dce8a3428/apiguardian-api-1.1.2-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/a231e0d844d2721b0fa1b238006d15c6ded6842a/apiguardian-api-1.1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.8.2/ea87fe3d752e24397f71f347872e79a89c61a704/junit-jupiter-engine-5.8.2-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.8.2/c598b4328d2f397194d11df3b1648d68d7d990e3/junit-jupiter-engine-5.8.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.8.2/ef25ff956479198a71a7d1b23e11f27fb09393b6/junit-platform-engine-1.8.2-sources.jar" kind="lib" path="C:/Users/ciara/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.8.2/b737de09f19864bd136805c84df7999a142fec29/junit-platform-engine-1.8.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+</classpath>
