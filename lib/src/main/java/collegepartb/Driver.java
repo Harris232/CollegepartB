@@ -98,6 +98,11 @@ public class Driver {
 		cp.addStudents(st);
 		cp.addStudents(s);
 		
+		System.out.println(""+stud.getName());
+		System.out.println(""+mods.getName());
+		System.out.println(""+lect.getName());
+		System.out.println(""+cp.getName());
+		
 	}
 	
 	public static void main(String[] args) {
